@@ -34,6 +34,13 @@ A Python script that scrapes memes, titles, and authors from [Imgflip.com](https
 
 ---
 
+## 🧪 Output
+1. 📷 images/: Folder containing downloaded meme images.
+2. 📄 meme.csv: Structured tabular data.
+3. 📑 meme.json: JSON-formatted metadata.
+
+---
+
 ## 👤 Author
 Written with passion by – @FaresSaleemGHub
 
