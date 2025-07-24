@@ -5,7 +5,6 @@ A Python script that scrapes memes, titles, and authors from [Imgflip.com](https
 ---
 
 ## 🚀 Features
-
 - Scrapes meme title, author, and image URL
 - Downloads `.jpg` and `.gif` image formats
 - Saves metadata into:
@@ -17,7 +16,6 @@ A Python script that scrapes memes, titles, and authors from [Imgflip.com](https
 ---
 
 ## 🛠️ Technologies Used
-
 - Python
 - Requests
 - BeautifulSoup
@@ -43,12 +41,3 @@ Written with passion by – @FaresSaleemGHub
 
 ## 📜 License
 This project is open-source and available under the MIT License.
-
-
-
-
-
-
-
-
-
